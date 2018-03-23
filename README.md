@@ -33,7 +33,8 @@ python expression_synthesis.py --mode='test'
 ```
 ### Attribute-Guided Face Synthesis Model
 
-![](https://github.com/CreativePapers/ECCV2018/blob/master/diagram.pdf)
+![](https://github.com/CreativePapers/ECCV2018/blob/master/Diagram.png)
+
 
 ### Demo
 
