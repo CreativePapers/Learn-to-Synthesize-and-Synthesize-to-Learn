@@ -42,7 +42,6 @@ python expression_synthesis.py --mode='test'
 
 ### Sample Results 
 
-![](https://github.com/CreativePapers/ECCV2018/blob/master/2_fake.png)
 
 ![](https://github.com/CreativePapers/ECCV2018/blob/master/10_fake.png)
 
