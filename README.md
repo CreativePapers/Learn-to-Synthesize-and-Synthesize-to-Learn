@@ -1,4 +1,4 @@
-# ECCV2018
+# Learn to Synthesize and Synthesize to Learn
 This repository includes the training and testing codes for: "Learn to Synthesize and Synthesize to Learn".
 
 ![](https://github.com/CreativePapers/ECCV2018/blob/master/146_fake.png)
