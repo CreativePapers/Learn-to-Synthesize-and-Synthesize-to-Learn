@@ -1,5 +1,5 @@
 # ECCV2018
-This repository includes the training and testing codes for ECCV 2018 submission: "Learn to Synthesize and Synthesize to Learn".
+This repository includes the training and testing codes for: "Learn to Synthesize and Synthesize to Learn".
 
 ![](https://github.com/CreativePapers/ECCV2018/blob/master/146_fake.png)
 
