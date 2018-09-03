@@ -36,9 +36,6 @@ python expression_synthesis.py --mode='test'
 ![](https://github.com/CreativePapers/ECCV2018/blob/master/Diagram.png)
 
 
-### Demo
-
-[![Clone the demo using Git LFS](https://github.com/CreativePapers/ECCV2018/blob/master/supplementary.mp4)]
 
 
 ### Sample Results 
